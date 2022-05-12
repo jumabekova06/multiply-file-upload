@@ -1,10 +1,10 @@
-# Код из 2-главы книги "Django for API. Build web APIs with Python and Django. William S. Vincent" 
+## Код из материала по загрузке файлов из DRF
 
 ## Настройка перед запуском
 
 Первое, что нужно сделать, это клонировать репозиторий:
 ```sh
-$ git clone https://github.com/jumabekova06/Code-of-DjangoApiBook.git
+$ git clone https://github.com/jumabekova06/multiply-file-upload
 
 
 ```
